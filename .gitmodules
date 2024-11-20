@@ -1,12 +1,12 @@
 [submodule "client-gateway"]
 	path = client-gateway
-	url = https://github.com/claudiocoder/client-gateway.git
+	url = git@github.com:claudiocoder/client-gateway.git
 [submodule "orders-ms"]
 	path = orders-ms
-	url = https://github.com/claudiocoder/orders-ms.git
+	url = git@github.com:claudiocoder/orders-ms.git
 [submodule "products-ms"]
 	path = products-ms
-	url = https://github.com/claudiocoder/products-ms.git
+	url = git@github.com:claudiocoder/products-ms.git
 [submodule "payments-ms"]
 	path = payments-ms
 	url = git@github.com:claudiocoder/payments-ms.git
