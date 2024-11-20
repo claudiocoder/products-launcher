@@ -7,3 +7,6 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = https://github.com/claudiocoder/products-ms.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = git@github.com:claudiocoder/payments-ms.git
