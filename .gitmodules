@@ -10,3 +10,6 @@
 [submodule "payments-ms"]
 	path = payments-ms
 	url = git@github.com:claudiocoder/payments-ms.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = git@github.com:claudiocoder/auth-ms.git
